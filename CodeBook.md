@@ -17,7 +17,9 @@ meltedData
 * Pivoted data set by subject and activity 
 DataSet2
 * Mean of each result variable in the study.
+
 ###Column Names
+
 * "tBodyAcc-mean()-X"           
 * "tBodyAcc-mean()-Y"           
 * "tBodyAcc-mean()-Z"           
@@ -85,7 +87,9 @@ DataSet2
 * "fBodyBodyGyroMag-std()"      
 * "fBodyBodyGyroJerkMag-std()"  
 * "Activity"                    
-* "Subject"       
+* "Subject"   
+
 ###Original Data
+
 Original data source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Data set used pre-processing:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
